@@ -19,6 +19,10 @@ We will use the Kotlin and Java programming language
 
 - Sylvia Domenech
 
+<a href = "mailto:s4domenech@gmail.com">
+	<img src="http://pngimg.com/uploads/gmail_logo/gmail_logo_PNG10.png" height="100px" width="100px">
+</a>
+
 
 ## License
 
