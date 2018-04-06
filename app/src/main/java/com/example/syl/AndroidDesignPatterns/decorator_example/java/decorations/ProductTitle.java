@@ -10,8 +10,7 @@ public class ProductTitle extends ProductDecorator{
     }
 
     @Override
-    public void makeProduct(){
-        super.makeProduct();
-        System.out.println("Product with Title");
+    public String makeProduct(){
+        return super.makeProduct() + " with title";
     }
 }

@@ -1,6 +1,6 @@
 package com.example.syl.AndroidDesignPatterns.decorator_example.java;
 
-public class ProductDecorator implements Product {
+public abstract class ProductDecorator implements Product {
 
     protected Product product;
 
@@ -9,7 +9,7 @@ public class ProductDecorator implements Product {
     }
 
     @Override
-    public void makeProduct() {
-        this.product.makeProduct();
+    public String makeProduct() {
+        return this.product.makeProduct();
     }
 }

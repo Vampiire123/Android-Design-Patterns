@@ -10,8 +10,7 @@ public class ProductImage extends ProductDecorator{
     }
 
     @Override
-    public void makeProduct() {
-        super.makeProduct();
-        System.out.println("Product with image");
+    public String makeProduct() {
+        return super.makeProduct() + " with image";
     }
 }
