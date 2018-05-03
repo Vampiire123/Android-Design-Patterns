@@ -5,6 +5,7 @@ In this repository we are going to implement some of the most used Design Patter
 - Builder pattern
 - Singleton pattern
 - Strategy pattern
+- Memento pattern
 
 We will motivate the use of each one and implement at least one
 example
