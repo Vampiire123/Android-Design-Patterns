@@ -2,11 +2,11 @@
 
 In this repository we are going to implement some of the most used Design Patterns for Android development.
 
-- Builder pattern
-- Singleton pattern
-- Strategy pattern
-- Decorator pattern
-- Memento pattern
+- [Builder pattern](https://github.com/Vampiire123/Android-Design-Patterns/blob/master/docs/Builder%20pattern.md) 
+- [Singleton pattern](https://github.com/Vampiire123/Android-Design-Patterns/blob/master/docs/Singleton%20pattern.md)
+- [Strategy pattern](https://github.com/Vampiire123/Android-Design-Patterns/blob/master/docs/Strategy%20pattern.md)
+- [Decorator pattern](https://github.com/Vampiire123/Android-Design-Patterns/blob/master/docs/Decorator%20pattern.md)
+- [Memento pattern](https://github.com/Vampiire123/Android-Design-Patterns/blob/master/docs/Memento%20pattern.md)
 
 We will motivate the use of each one and implement at least one
 example
